@@ -5,12 +5,12 @@
 #       File  : ./Encrypt_USB.sh                                                        #
 #       Usage : ./Encrypt_USB.sh                                                        #
 #       Description : Encrypt/Decrypt floppy devices                                    #
-#       Option: -                                                                       #
+#       Option: sh script.sh (key file) (m/u) (Device_name ex:sdb1)                     #
 #       Requirement : Floppy(USB)                                                       #
 #       Bugs   : None                                                                   #
 #       Author : Mouad OURGH                                                            #
 #       Version: 1.0                                                                    #
-#       Date   : 14/01/2019                                                             #
+#       Date   : 16/01/2019                                                             #
 #                                                                                       #
 #########################################################################################
 device=$2
